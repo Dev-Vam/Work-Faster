@@ -4,7 +4,7 @@
 
 A beautiful and functional Pomodoro timer desktop application built with **React**, **TypeScript**, and **Electron.js**.
 
-**Author:** Dev-Vamerlen <merlenvaml@proton.me>
+**Author:** Dev-Vamerlen <merlenvam@proton.me>
 
 ---
 
