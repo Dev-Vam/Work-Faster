@@ -189,10 +189,6 @@ Make sure you have Windows Build Tools:
 npm install --global windows-build-tools
 ```
 
-### Audio doesn't play
-
-The app uses an online audio file. Make sure you have an internet connection when the timer completes.
-
 ---
 
 ## 📄 License
@@ -205,16 +201,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Built with [React](https://reactjs.org/)
 - Powered by [Electron](https://www.electronjs.org/)
-- Icons from emoji unicode
-- Sound effect from [Mixkit](https://mixkit.co/)
 
 ---
 
 ## 📧 Contact
 
 **Your Name**
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: merlenvam@proton.me
+- GitHub: [@yourusername](https://github.com/Dev-Vam)
 
 ---
 
